@@ -162,11 +162,6 @@ My development stack is grounded in **Laravel & PHP monoliths**, **MariaDB/MySQL
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakews2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="jakews2's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakews2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakews2&theme=tokyonight&hide_border=true" alt="jakews2's GitHub Streak" />
 </p>
 
