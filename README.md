@@ -191,6 +191,9 @@ Have a project to discuss or an engineering opportunity? Let's connect!
   <a href="https://github.com/sprout-main">
     <img src="https://img.shields.io/badge/GitHub-sprout--main-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
+  <a href="https://github.com/jakews2">
+    <img src="https://img.shields.io/badge/GitHub-jakews2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
   <a href="https://sarak.free.nf">
     <img src="https://img.shields.io/badge/Live_Project-sarak.free.nf-10B981?style=for-the-badge&logo=googleearth&logoColor=white" alt="Sarak Live">
   </a>
